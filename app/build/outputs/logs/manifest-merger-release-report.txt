@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\46454d8bd403abce73af356b56fcac17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a16590137c5349e7a17cc9d39121a854\AndroidManifest.xml:17:1-22:12
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\recyclerview-fastscroll-1.0.18.aar\33f50def2fd26a1aed46439ac5fb212f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2a7d03111405832933944832277fb5b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1f8b2db3b66fa6469184e77472d0d7cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5bce65cc9a39ed301b06da66924db41c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7f6e43c70508280d0621bb6d140f69fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e76eff28516a3d2a9f79ec92defbc579\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f449b91266a744e535a754e13d04c89e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4d7f7cf4c03196be9691219947a4e697\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\881ac0b3235f2c98c958b923a42b825d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1aebb8fea7a98607eaab6a7c4d644c0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:8:5-24:19
+	android:supportsRtl
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.iven.musicplayergo.MainActivity
+ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:20:27-74
+service#com.iven.musicplayergo.playback.MusicService
+ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:23:9-58
+	android:name
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml:23:18-55
+uses-sdk
+INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\46454d8bd403abce73af356b56fcac17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\46454d8bd403abce73af356b56fcac17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a16590137c5349e7a17cc9d39121a854\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a16590137c5349e7a17cc9d39121a854\AndroidManifest.xml:20:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\recyclerview-fastscroll-1.0.18.aar\33f50def2fd26a1aed46439ac5fb212f\AndroidManifest.xml:7:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\recyclerview-fastscroll-1.0.18.aar\33f50def2fd26a1aed46439ac5fb212f\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2a7d03111405832933944832277fb5b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2a7d03111405832933944832277fb5b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1f8b2db3b66fa6469184e77472d0d7cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1f8b2db3b66fa6469184e77472d0d7cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5bce65cc9a39ed301b06da66924db41c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5bce65cc9a39ed301b06da66924db41c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7f6e43c70508280d0621bb6d140f69fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7f6e43c70508280d0621bb6d140f69fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e76eff28516a3d2a9f79ec92defbc579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e76eff28516a3d2a9f79ec92defbc579\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f449b91266a744e535a754e13d04c89e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f449b91266a744e535a754e13d04c89e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4d7f7cf4c03196be9691219947a4e697\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4d7f7cf4c03196be9691219947a4e697\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\881ac0b3235f2c98c958b923a42b825d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\881ac0b3235f2c98c958b923a42b825d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1aebb8fea7a98607eaab6a7c4d644c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\WHEEL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1aebb8fea7a98607eaab6a7c4d644c0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WHEEL\AndroidProjects\Music-Player-GO-mod\app\src\main\AndroidManifest.xml

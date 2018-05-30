@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\WHEEL\\AndroidProjects\\Music-Player-GO-mod\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v27\\values-v27.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\WHEEL\\AndroidProjects\\Music-Player-GO-mod\\app\\src\\main\\res\\values-v27\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "42",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "729"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "742"
+                    }
+                }
+            ]
+        }
+    ]
+}
